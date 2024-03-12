@@ -1,0 +1,15 @@
+{
+    "name": "danilocgsilva/my_groceries",
+    "autoload": {
+        "psr-4": {
+            "Danilocgsilva\\MyGroceries\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo Silva",
+            "email": "contact@danilocgsilva.me"
+        }
+    ],
+    "require": {}
+}
